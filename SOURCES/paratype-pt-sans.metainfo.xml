@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright 2014 Parag Nemade <pnemade AT redhat DOT com> -->
+<component type="font">
+  <id>paratype-pt-sans</id>
+  <metadata_license>CC-BY-3.0</metadata_license>
+  <name>PT Sans</name>
+  <summary>A pan-Cyrillic typeface</summary>
+  <description>
+    <p>
+      The PT Sans family was developed as part of the “Public Types of Russian
+      Federation” project. This project aims at enabling the peoples of Russia to
+      read and write their native languages, using free/libre fonts. It is
+      dedicated to the 300-year anniversary of the Russian civil type invented by
+      Peter the Great from 1708 to 1710, and was realized with financial support
+      from the Russian Federal Agency for Press and Mass Communications.
+     
+      PT Sans is a grotesque font based on Russian type designs of the second part
+      of the 20th century. However, it also includes very distinctive features of
+      modern humanistic design, fulfilling present day aesthetic and functional
+      requirements.
+    </p>
+  </description>
+  <updatecontact>pnemade_at_redhat_dot_com</updatecontact>
+  <url type="homepage">http://www.paratype.com/public/</url>
+</component>
+
